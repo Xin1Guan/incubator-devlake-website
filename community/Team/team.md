@@ -61,6 +61,15 @@ get merged into the codebase. We deeply appreciate your contribution!
 - [Wei Tian](https://github.com/txtw)
 - [Nico Gallinal](https://github.com/nicoabie)
 - [Qi Zhang](https://github.com/zhangqi)
+- [Shaohui Liu](https://github.com/lshmouse)
+
+### New Contributors October 2022
+
+#### Shaohui Liu
+
+---
+
+![Shaohui Liu](/img/Community/contributors/Shaohui Liu.jpeg)
 
 ### New Contributors September 2022
 
