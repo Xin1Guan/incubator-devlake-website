@@ -62,6 +62,14 @@ get merged into the codebase. We deeply appreciate your contribution!
 - [Nico Gallinal](https://github.com/nicoabie)
 - [Qi Zhang](https://github.com/zhangqi)
 
+### New Contributors November 2022
+
+#### Yue Wang
+
+---
+
+![Yue Wang](/img/Community/contributors/Yue Wang.jpeg)
+
 ### New Contributors September 2022
 
 #### Qi Zhang
